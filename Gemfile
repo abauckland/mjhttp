@@ -33,7 +33,7 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 gem 'mjweb', git: "git@github.com:abauckland/mjweb.git", branch: "master"
-#gem 'mjbook', :path => '../mjbook'
+#gem 'mjweb', :path => '../mjweb'
 
 group :development do
   gem 'capistrano', '~> 3.1'
