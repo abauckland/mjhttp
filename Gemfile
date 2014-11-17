@@ -26,6 +26,7 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 
 gem 'geocoder'
 gem 'carrierwave'
+gem 'fog'
 gem 'mjweb', git: "git@github.com:abauckland/mjweb.git", branch: "master"
 #gem 'mjweb', :path => '../mjweb'
 
