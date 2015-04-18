@@ -1,6 +1,6 @@
 GIT
   remote: git@github.com:abauckland/mjweb.git
-  revision: ab0ab721e23fd41acd0a94cb392f395c96507384
+  revision: 22c6106ce75f72b8b10d13b7f9c228fa98ca862f
   branch: master
   specs:
     mjweb (0.0.2)
@@ -124,8 +124,8 @@ GEM
       treetop (~> 1.4.8)
     mime-types (1.25.1)
     mini_portile (0.6.1)
-    minitest (5.5.1)
-    multi_json (1.10.1)
+    minitest (5.6.0)
+    multi_json (1.11.0)
     mysql2 (0.3.17)
     net-scp (1.2.1)
       net-ssh (>= 2.6.5)
@@ -182,7 +182,7 @@ GEM
       net-scp (>= 1.1.2)
       net-ssh (>= 2.8.0)
     thor (0.19.1)
-    thread_safe (0.3.4)
+    thread_safe (0.3.5)
     tilt (1.4.1)
     treetop (1.4.15)
       polyglot
